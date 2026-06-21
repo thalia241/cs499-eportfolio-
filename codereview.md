@@ -1,19 +1,24 @@
 # Code Review
 
-This code review was completed as part of CS 499. In the review, I analyzed my selected artifacts, identified areas for improvement, and explained my planned enhancements for software engineering, algorithms and data structures, and databases.
+This code review was completed as part of CS 499 and serves as the foundation for the enhancements completed throughout the capstone project. During the review, I analyzed each selected artifact, identified areas for improvement, and developed enhancement plans for software design and engineering, algorithms and data structures, and databases.
 
 ## Code Review Video
 
-[Watch Code Review Video]((https://youtu.be/H2cHoOl4tdA)) 
+🎥 Watch the Code Review Video:
 
-## Purpose of the Code Review
+https://youtu.be/H2cHoOl4tdA
 
-The purpose of this code review was to evaluate the original versions of my selected artifacts and determine how they could be improved for my final ePortfolio. During the review, I discussed code structure, functionality, security, maintainability, algorithms, data structures, database operations, and opportunities for enhancement.
+## Review Summary
 
-## Enhancement Categories
+The code review evaluated three selected artifacts:
 
-The code review supported enhancements in the following areas:
+### Artifact 1 – Software Design and Engineering
+The CharityWeightApp was reviewed to identify opportunities for improving software structure, security, user validation, and overall application functionality.
 
-- Software Design and Engineering
-- Algorithms and Data Structures
-- Databases 
+### Artifact 2 – Algorithms and Data Structures
+The Maze Adventure Game was reviewed to identify improvements related to data organization, algorithm implementation, inventory management, and gameplay tracking.
+
+### Artifact 3 – Databases
+The Grazioso Salvare Dashboard was reviewed to identify enhancements involving database operations, query optimization, data visualization, and dashboard usability.
+
+The review process helped establish the enhancement goals that were later implemented throughout the capstone project and provided a roadmap for demonstrating growth across multiple areas of computer science. 
