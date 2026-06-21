@@ -4,7 +4,7 @@ This code review was completed as part of CS 499. In the review, I analyzed my s
 
 ## Code Review Video
 
-[Download Code Review Video](CS499CodeReview_Deel.mp4)
+[Watch Code Review Video]((https://youtu.be/H2cHoOl4tdA)) 
 
 ## Purpose of the Code Review
 
